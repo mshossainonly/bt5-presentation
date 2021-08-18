@@ -1,0 +1,305 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+/*header start*/
+.b-nav {
+    background-color:white;
+}
+.menu ul li {
+    margin:5px 0 0px;
+    text-align: right;
+}
+/*slider start*/
+.slider {
+    padding: 50px 0;
+}
+.c-text {
+    margin: 60px 0;
+}
+.c-text h1 {
+    font-size: 18px;
+}
+.bp{
+    background-image: none;
+}
+.bn{
+    background-image: none;
+}
+/*dummy start*/
+.dummy {
+    padding:50px 0;
+}
+.d-text h1 {
+   font-size: 17px;
+}
+.d-text p {
+    margin-top: 5px;
+    margin-bttom: 10px
+}
+.d-item {
+    margin-bottom: 20px;
+}
+.d-item i {
+    font-size: 60px;
+}
+.d-item h1 {
+    margin: 5px 0; 
+    font-size: 16px;
+}
+.dmt {
+    margin-top: 0px;
+}
+/*features start*/
+.features {
+    padding: 0px;
+    background-image:none;
+}
+.f-item {
+    margin-top: 20px;
+}
+.f-item h1 {
+    margin-top: 5px;
+    margin-left: 0px;
+}
+.f-item p {
+    margin-left: 0px;
+}
+/*customer logo*/
+.c-logo {
+    padding: 40px;
+}
+.clogo {
+  margin-left: 0px;
+}
+.cl-4{
+    margin-top: 30px;
+    margin-bottom: 0px;
+}
+/*customer logo*/
+.c-logo {
+    padding: 40px;
+}
+/*contact start*/
+.contact {
+    padding-bottom: 50px;
+}
+.ct-text{
+    margin-top: 15px;
+    text-align: center;
+}
+.ct-text h1 {
+    font-size: 20px;
+}
+/*footer start*/
+footer {
+    padding: 10px 0;
+}
+.f-text p {
+    margin-top: 5px;
+    font-size: 15px;
+}
+.social ul li a {
+    font-size: 22px;
+}
+
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+/*header start*/
+.b-nav {
+    background-color:white;
+}
+.menu ul li {
+    margin:5px 0 0px;
+    text-align: right;
+}
+/*slider start*/
+.slider {
+    padding: 50px 0;
+}
+.c-text {
+    margin: 60px 0;
+}
+.c-text h1 {
+    font-size: 20px;
+}
+/*dummy start*/
+.dummy {
+    padding: 50px 0;
+}
+.d-item {
+    margin-bottom: 20px;
+}
+.d-text h1 {
+   font-size: 18px;
+}
+/*dummy start*/
+.dummy {
+    padding: 50px 0;
+}
+.d-text h1 {
+   font-size: 18px;
+}
+/*dummy start*/
+.dummy {
+    padding: 50px 0;
+}
+.d-text h1 {
+   font-size: 18px;
+}
+.d-text p {
+    margin-top: 5px;
+    margin-bttom: 10px
+}
+.d-item i {
+    font-size: 70px;
+}
+.d-item h1 {
+    margin-top: 10px;
+    font-size: 18px;
+}
+.dmt {
+    margin-top: 0px;
+}
+.d-item i {
+    font-size: 70px;
+}
+.d-item h1 {
+    margin-top: 10px;
+    font-size: 18px;
+}
+.dmt {
+    margin-top: 0px;
+}
+.d-item i {
+    font-size: 60px;
+}
+.d-item h1 {
+    margin-top: 5px;
+    font-size: 16px;
+}
+.dmt {
+    margin-top: 0px;
+}
+/*features start*/
+.features {
+    padding: 20px;
+    background-image:none;
+}
+.f-item {
+    margin-top: 20px;
+}
+.f-item h1 {
+    margin-top: 5px;
+    margin-left: 0px;
+}
+.f-item p {
+    margin-left: 0px;
+}
+/*customer logo*/
+.c-logo {
+    padding: 40px;
+}
+/*contact start*/
+.contact {
+    padding-bottom: 50px;
+}
+.ct-text{
+    margin-top: 20px;
+}
+.ct-text h1 {
+    font-size: 20px;
+}
+/*footer start*/
+footer {
+    padding: 12px 0;
+}
+.f-text p {
+    margin-top: 5px;
+}
+.social ul li a {
+    font-size: 22px;
+}
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+/*header start*/
+.b-nav {
+    background-color:white;
+}
+.menu ul li {
+    margin:5px 0 0px;
+    text-align: right;
+}
+/*slider start*/
+.slider {
+    padding-top: 50PX;
+    padding-bottom: 60PX;
+}
+.c-text {
+    margin: 100px 0;
+}
+.c-text h1 {
+    font-size: 25px;
+}
+/*dummy start*/
+.dummy {
+    padding-top: 50px;
+    padding-bottom: 60px;
+}
+.d-text h1 {
+    font-size: 22px;
+}
+.d-text p {
+    margin: 20px 0;
+}
+.d-item i {
+    font-size: 80px;
+}
+.d-item h1 {
+    margin-top: 12px;
+    font-size: 18px;
+}
+.dmt {
+    margin-top: 35px;
+}
+/*features start*/
+.features {
+    padding: 60px;
+}
+.f-item h1 {
+    margin-top: 5px;
+    margin-left: 0px;
+}
+.f-item p {
+    margin-left: 0px;
+}
+/*contact star*/
+.contact {
+    padding-bottom: 60px;
+}
+.ct-text{
+    margin-top: 25px;
+}
+
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+ /*dummy start*/
+ .dummy {
+    padding: 60px;
+}
+
+}
+
+/*X-Large devices (larger desktops, 1200px and up)*/
+@media (min-width:1200px) and (max-width: 1399.98px) {
+
+}
+
+/*XX-Large devices (larger desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+
+}
