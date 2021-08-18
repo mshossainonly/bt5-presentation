@@ -40,15 +40,13 @@ header{
 }
 .logo{}
 .menu{}
-.menu ul li{
-	margin: 0 15px;
-}
-.menu ul li:last-child{
-	margin-right:0;
-}
 .menu ul li a{
+	margin: 0 15px;
 	font-family: OpenSans-Regular;
 	color:#ffffff !important;
+}
+.menu ul li:last-child a{
+	margin-right:0;
 }
 .menu ul li a:hover{
 	color: #66d6dd !important;
